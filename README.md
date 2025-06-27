@@ -102,4 +102,4 @@ Wrote components/card.md
 
 ## License
 
-This project is released under the [MIT License](LICENSE). (Add a LICENSE file as needed.)
+This project is released under the [MIT License](LICENSE).
